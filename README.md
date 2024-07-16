@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=김범규&fontSize=90" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
