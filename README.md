@@ -50,4 +50,7 @@
 </div>
 
 <h3 align="center">📫 Projects undertaken 📫</h3>
-<h3 align="reft">📫 Contact 📫</h3>
+<h3 align="reft">Project 1 : ARPG 📫</h3>
+<h3 align="reft">Project 2 : Runing 📫</h3>
+<h3 align="reft">Project 3 : suvver 📫</h3>
+<h3 align="reft">Project 4 : depens 📫</h3>
