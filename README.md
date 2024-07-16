@@ -50,3 +50,4 @@
 </div>
 
 <h3 align="center">📫 Projects undertaken 📫</h3>
+<h3 align="reft">📫 Contact 📫</h3>
