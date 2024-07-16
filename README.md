@@ -45,7 +45,7 @@
   </a>
   <a href="mailto:oka1313@gmail.com">
     <img
-      src="https://img.shields.io/badge/bg000717@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/bg000727@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
 
