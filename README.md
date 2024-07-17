@@ -6,6 +6,8 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=C%23&logoColor=css">
+
   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=c++&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/c-F7DF1E.svg?style=for-the-badge&logo=c++&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/Unityc#-E34F26.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
