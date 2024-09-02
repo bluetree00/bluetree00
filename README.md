@@ -15,9 +15,8 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Unrealengine-007ACC.svg?style=unrealengine&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MYSQL%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Unrealengine-007ACC.svg?style=unrealengine&logo=C&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MYSQL-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
 </div>
 
 <br>
