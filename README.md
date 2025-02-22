@@ -42,8 +42,8 @@
   <div style="text-align: center;">
     <!-- ARPG 프로젝트 -->
     <div style="margin-bottom: 20px;">
-      <a href="https://github.com/bluetree00/ARPG" target="_blank">
-        <img src="https://img.shields.io/badge/ARPG-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ARPG">
+      <a href="https://github.com/bluetree00/EVE-TERRACIDE" target="_blank">
+        <img src="https://img.shields.io/badge/EVE TERRACIDE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ARPG">
       </a>
       <br>
       <input type="text" placeholder="ARPG 코멘트를 남겨주세요" style="margin-top: 5px; width:80%; max-width:400px;">
