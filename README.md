@@ -37,9 +37,6 @@
   </a>
 </div>
 
-<h3 align="center">📫 Projects undertaken 📫</h3>
-
-
 <!-- Projects undertaken 항목 -->
 <h3 align="center">📫 Projects undertaken 📫</h3>
 <div align="center">
