@@ -45,7 +45,9 @@
       <a href="https://github.com/bluetree00/EVE : TERRACIDE
 ![image](https://github.com/user-attachments/assets/b7a75784-9a92-49ed-8936-19bcf71ded90)
 " target="_blank">
-        <img src="https://img.shields.io/badge/ARPG-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ARPG">
+        <img src="https://img.shields.io/badge/EVE : TERRACIDE
+![image](https://github.com/user-attachments/assets/e2735ee8-1ec8-4ebe-b13f-65310bf40154)
+-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ARPG">
       </a>
       <br>
       <input type="text" placeholder="ARPG 코멘트를 남겨주세요" style="margin-top: 5px; width:80%; max-width:400px;">
