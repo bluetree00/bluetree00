@@ -42,7 +42,9 @@
   <div style="text-align: center;">
     <!-- ARPG 프로젝트 -->
     <div style="margin-bottom: 20px;">
-      <a href="https://github.com/bluetree00/ARPG" target="_blank">
+      <a href="https://github.com/bluetree00/EVE : TERRACIDE
+![image](https://github.com/user-attachments/assets/b7a75784-9a92-49ed-8936-19bcf71ded90)
+" target="_blank">
         <img src="https://img.shields.io/badge/ARPG-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ARPG">
       </a>
       <br>
