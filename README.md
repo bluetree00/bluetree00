@@ -1,6 +1,6 @@
 <!-- 상단 헤더 이미지 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=김범규&fontSize=90" alt="타이틀 이미지"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=KimBeomKyu&fontSize=90" alt="타이틀 이미지"/>
 </div>
 
 <br/>
