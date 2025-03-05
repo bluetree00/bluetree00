@@ -38,6 +38,11 @@
   </a>
 </p>
 
+<!-- GitHub 커밋 스터릭 -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluetree00&theme=default" alt="GitHub Commit Streak"/>
+</div>
+
 <!-- Projects -->
 <h3 align="center">📫 Projects undertaken 📫</h3>
 <div align="center">
@@ -100,6 +105,16 @@
 
   <!-- AI 프로젝트 -->
   <p style="margin-bottom: 30px;">
+    <!-- AI 프로젝트 추가 이미지 클릭 시 이동 -->
+    <a href="https://github.com/loremtho/SHA_Project" target="_blank">
+      <img 
+        src="https://github.com/user-attachments/assets/b6e56c67-ec80-4e0b-89da-a5ca906afd37"
+        alt="AI 프로젝트 추가 이미지" 
+        style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;"
+      />
+    </a>
+    <br/>
+    <!-- 깃허브 링크 버튼 -->
     <a href="https://github.com/loremtho/SHA_Project" target="_blank">
       <img src="https://img.shields.io/badge/AI%20프로젝트-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI 프로젝트">
     </a>
