@@ -42,8 +42,8 @@
 <h3 align="center">📫 Projects undertaken 📫</h3>
 <div align="center">
   <!-- EVE TERRACIDE -->
-  <p>
-    <!-- 이브 테라사이드 이미지 클릭 시 이동 -->
+  <p style="margin-bottom: 30px;">
+    <!-- EVE TERRACIDE 이미지 클릭 시 이동 -->
     <a href="https://github.com/bluetree00/EVE-TERRACIDE" target="_blank">
       <img 
         src="https://github.com/user-attachments/assets/5320aaf3-9303-45cc-b9b2-53b718117be3"
@@ -57,33 +57,53 @@
       <img src="https://img.shields.io/badge/EVE%20TERRACIDE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="EVE TERRACIDE">
     </a>
     <br/>
-    <em>ARPG 링크</em>
+    <em>ARPG 코멘트를 남겨주세요</em>
   </p>
 
   <!-- Project_A -->
-  <p>
+  <p style="margin-bottom: 30px;">
+    <!-- Project_A 이미지 클릭 시 이동 -->
+    <a href="https://github.com/bluetree00/Project_A" target="_blank">
+      <img 
+        src="https://github.com/user-attachments/assets/1fcd13a5-70c6-4e89-b555-cd2f54f67852"
+        alt="Project_A 이미지" 
+        style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;"
+      />
+    </a>
+    <br/>
+    <!-- 깃허브 링크 버튼 -->
     <a href="https://github.com/bluetree00/Project_A" target="_blank">
       <img src="https://img.shields.io/badge/Project_A-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project_A">
     </a>
     <br/>
-    <em>Project_A 링크</em>
+    <em>Project_A 코멘트를 남겨주세요</em>
   </p>
 
   <!-- StellaWave -->
-  <p>
+  <p style="margin-bottom: 30px;">
+    <!-- StellaWave 이미지 클릭 시 이동 -->
+    <a href="https://github.com/bluetree00/StellaWave" target="_blank">
+      <img 
+        src="https://github.com/user-attachments/assets/f3c75dcd-1f44-4d29-b0f1-11c2540b763f"
+        alt="StellaWave 이미지" 
+        style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;"
+      />
+    </a>
+    <br/>
+    <!-- 깃허브 링크 버튼 -->
     <a href="https://github.com/bluetree00/StellaWave" target="_blank">
       <img src="https://img.shields.io/badge/StellaWave-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="StellaWave">
     </a>
     <br/>
-    <em>StellaWave 링크</em>
+    <em>StellaWave 코멘트를 남겨주세요</em>
   </p>
 
   <!-- AI 프로젝트 -->
-  <p>
+  <p style="margin-bottom: 30px;">
     <a href="https://github.com/loremtho/SHA_Project" target="_blank">
       <img src="https://img.shields.io/badge/AI%20프로젝트-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI 프로젝트">
     </a>
     <br/>
-    <em>AI 프로젝트 링크</em>
+    <em>AI 프로젝트 코멘트를 남겨주세요</em>
   </p>
 </div>
