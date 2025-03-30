@@ -59,7 +59,7 @@
       <img src="https://img.shields.io/badge/Project_A-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project_A">
     </a>
     <br/>
-    <em>Project_A 눌러서 이동</em>
+    <em>Project_A 이미지를 눌러서 이동</em>
   </p>
 
   <!-- EVE TERRACIDE -->
@@ -78,7 +78,7 @@
       <img src="https://img.shields.io/badge/EVE%20TERRACIDE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="EVE TERRACIDE">
     </a>
     <br/>
-    <em>ARPG 눌러서 이동</em>
+    <em>ARPG 이미지를 눌러서 이동</em>
   </p>
 
   <!-- StellaWave -->
@@ -97,7 +97,7 @@
       <img src="https://img.shields.io/badge/StellaWave-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="StellaWave">
     </a>
     <br/>
-    <em>StellaWave 눌러서 이동</em>
+    <em>StellaWave 이미지를 눌러서 이동</em>
   </p>
 
  <!-- AI 프로젝트 -->
@@ -115,7 +115,7 @@
     <img src="https://img.shields.io/badge/AI%20프로젝트-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI 프로젝트">
   </a>
   <br/>
-  <em>AI 눌러서 이동</em>
+  <em>AI 이미지를 눌러서 이동</em>
 </p>
 
 </div>
