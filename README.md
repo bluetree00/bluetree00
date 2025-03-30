@@ -42,24 +42,6 @@
 <!-- Projects -->
 <h3 align="center">📫 Projects undertaken 📫</h3>
 <div align="center">
-  <!-- EVE TERRACIDE -->
-  <p style="margin-bottom: 30px;">
-    <!-- EVE TERRACIDE 이미지 클릭 시 이동 -->
-    <a href="https://github.com/bluetree00/EVE-TERRACIDE" target="_blank">
-      <img 
-        src="https://github.com/user-attachments/assets/5320aaf3-9303-45cc-b9b2-53b718117be3"
-        alt="EVE TERRACIDE 이미지" 
-        style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;"
-      />
-    </a>
-    <br/>
-    <!-- 깃허브 링크 버튼 -->
-    <a href="https://github.com/bluetree00/EVE-TERRACIDE" target="_blank">
-      <img src="https://img.shields.io/badge/EVE%20TERRACIDE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="EVE TERRACIDE">
-    </a>
-    <br/>
-    <em>ARPG 코멘트를 남겨주세요</em>
-  </p>
 
   <!-- Project_A -->
   <p style="margin-bottom: 30px;">
@@ -77,7 +59,26 @@
       <img src="https://img.shields.io/badge/Project_A-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project_A">
     </a>
     <br/>
-    <em>Project_A 코멘트를 남겨주세요</em>
+    <em>Project_A 눌러서 이동</em>
+  </p>
+
+  <!-- EVE TERRACIDE -->
+  <p style="margin-bottom: 30px;">
+    <!-- EVE TERRACIDE 이미지 클릭 시 이동 -->
+    <a href="https://github.com/bluetree00/EVE-TERRACIDE" target="_blank">
+      <img 
+        src="https://github.com/user-attachments/assets/5320aaf3-9303-45cc-b9b2-53b718117be3"
+        alt="EVE TERRACIDE 이미지" 
+        style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;"
+      />
+    </a>
+    <br/>
+    <!-- 깃허브 링크 버튼 -->
+    <a href="https://github.com/bluetree00/EVE-TERRACIDE" target="_blank">
+      <img src="https://img.shields.io/badge/EVE%20TERRACIDE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="EVE TERRACIDE">
+    </a>
+    <br/>
+    <em>ARPG 눌러서 이동</em>
   </p>
 
   <!-- StellaWave -->
@@ -96,7 +97,7 @@
       <img src="https://img.shields.io/badge/StellaWave-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="StellaWave">
     </a>
     <br/>
-    <em>StellaWave 코멘트를 남겨주세요</em>
+    <em>StellaWave 눌러서 이동</em>
   </p>
 
  <!-- AI 프로젝트 -->
@@ -114,7 +115,8 @@
     <img src="https://img.shields.io/badge/AI%20프로젝트-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI 프로젝트">
   </a>
   <br/>
-  <em>AI 프로젝트 코멘트를 남겨주세요</em>
+  <em>AI 눌러서 이동</em>
 </p>
 
 </div>
+
