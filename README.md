@@ -48,9 +48,9 @@
     <!-- Project_A 이미지 클릭 시 이동 -->
     <a href="https://github.com/bluetree00/Project_A" target="_blank">
       <img 
-        src="https://github.com/user-attachments/assets/1fcd13a5-70c6-4e89-b555-cd2f54f67852"
+        src="https://github.com/user-attachments/assets/30a9b70a-35af-4d7a-98b5-a679b1fc4073"
         alt="Project_A 이미지" 
-        style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;"
+        style="width: 600px; height: auto; border-radius: 8px; margin-bottom: 10px;"
       />
     </a>
     <br/>
