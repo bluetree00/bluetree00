@@ -43,28 +43,25 @@
 <h3 align="center">📫 Projects undertaken 📫</h3>
 <div align="center">
 
-  <!-- Project_A -->
+  <!-- Project_Abyss -->
   <p style="margin-bottom: 30px;">
-    <!-- Project_A 이미지 클릭 시 이동 -->
-    <a href="https://github.com/bluetree00/Project_A" target="_blank">
+    <a href="https://github.com/bluetree00/Project_Abyss" target="_blank">
       <img 
         src="https://github.com/user-attachments/assets/30a9b70a-35af-4d7a-98b5-a679b1fc4073"
-        alt="Project_A 이미지" 
+        alt="Project_Abyss 이미지" 
         style="width: 600px; height: auto; border-radius: 8px; margin-bottom: 10px;"
       />
     </a>
     <br/>
-    <!-- 깃허브 링크 버튼 -->
-    <a href="https://github.com/bluetree00/Project_A" target="_blank">
-      <img src="https://img.shields.io/badge/Project_A-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project_A">
+    <a href="https://github.com/bluetree00/Project_Abyss" target="_blank">
+      <img src="https://img.shields.io/badge/Project_Abyss-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project_Abyss">
     </a>
     <br/>
-    <em>Project_A 이미지를 눌러서 이동</em>
+    <em>Project_Abyss 이미지를 눌러서 이동</em>
   </p>
 
   <!-- EVE TERRACIDE -->
   <p style="margin-bottom: 30px;">
-    <!-- EVE TERRACIDE 이미지 클릭 시 이동 -->
     <a href="https://github.com/bluetree00/EVE-TERRACIDE" target="_blank">
       <img 
         src="https://github.com/user-attachments/assets/5320aaf3-9303-45cc-b9b2-53b718117be3"
@@ -73,7 +70,6 @@
       />
     </a>
     <br/>
-    <!-- 깃허브 링크 버튼 -->
     <a href="https://github.com/bluetree00/EVE-TERRACIDE" target="_blank">
       <img src="https://img.shields.io/badge/EVE%20TERRACIDE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="EVE TERRACIDE">
     </a>
@@ -83,7 +79,6 @@
 
   <!-- StellaWave -->
   <p style="margin-bottom: 30px;">
-    <!-- StellaWave 이미지 클릭 시 이동 -->
     <a href="https://github.com/bluetree00/StellaWave" target="_blank">
       <img 
         src="https://github.com/user-attachments/assets/f3c75dcd-1f44-4d29-b0f1-11c2540b763f"
@@ -92,7 +87,6 @@
       />
     </a>
     <br/>
-    <!-- 깃허브 링크 버튼 -->
     <a href="https://github.com/bluetree00/StellaWave" target="_blank">
       <img src="https://img.shields.io/badge/StellaWave-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="StellaWave">
     </a>
@@ -102,7 +96,6 @@
 
  <!-- AI 프로젝트 -->
 <p style="margin-bottom: 30px;">
-  <!-- AI 프로젝트 추가 이미지 클릭 시 이동 -->
   <a href="https://github.com/loremtho/SHA_Project" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/b6e56c67-ec80-4e0b-89da-a5ca906afd37"
@@ -110,7 +103,6 @@
       width="400"  />
   </a>
   <br/>
-  <!-- 깃허브 링크 버튼 -->
   <a href="https://github.com/loremtho/SHA_Project" target="_blank">
     <img src="https://img.shields.io/badge/AI%20프로젝트-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI 프로젝트">
   </a>
@@ -119,4 +111,3 @@
 </p>
 
 </div>
-
